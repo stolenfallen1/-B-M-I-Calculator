@@ -1,4 +1,3 @@
-B-M-I-Calculator
 
 - Personal Project
 - Feel free to use this project as reference is developing your own BMI Calculator 
